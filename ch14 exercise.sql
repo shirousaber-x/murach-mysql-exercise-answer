@@ -1,0 +1,7 @@
+-- no 1
+DELIMITER //
+
+CREATE PROCEDURE test()
+BEGIN
+	
+END//
